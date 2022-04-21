@@ -4,8 +4,7 @@ let i = 3
 
 let userName = ""
 
-const job = {    
-}
+const job = {}
 
 for (let x = 1; x <= i; x++) {
     userName = prompt("Ismingini yozing", "Name")
