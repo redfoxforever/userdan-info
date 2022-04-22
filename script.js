@@ -3,6 +3,7 @@
 let i = 3
 
 let userName = ""
+let userAge = +"" 
 
 const job = {}
 
